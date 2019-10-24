@@ -4,10 +4,10 @@
 Sanchita Kanade <sanchitamystudies@gmail.com>
    
 ### Project Description
-• Designed a SpreadSheet application using Interpreter pattern, Observer pattern and Memento pattern
-• Programmed the spreadsheet with equation view and value view of 9 cells with GUI that allow users to enter either a number or a postfix   expression in the equation view and to get results in the value view
-• Used Interpreter pattern to evaluate postfix expressions, Observer pattern to update all dependent cells whenever a user modifies one cell and Memento pattern to add an undo mechanism to the spreadsheet
-• Tested application using Junit, in order to make sure that all design patterns are working fine and program accepts only valid input 
+1. Designed a SpreadSheet application using Interpreter pattern, Observer pattern and Memento pattern
+2. Programmed the spreadsheet with equation view and value view of 9 cells with GUI that allow users to enter either a number or a postfix   expression in the equation view and to get results in the value view
+3. Used Interpreter pattern to evaluate postfix expressions, Observer pattern to update all dependent cells whenever a user modifies one cell and Memento pattern to add an undo mechanism to the spreadsheet
+4. Tested application using Junit, in order to make sure that all design patterns are working fine and program accepts only valid input 
 
 ### Getting Started
 1. Download all files in this project and run the project using IntelliJ IDEA or eclipse 
